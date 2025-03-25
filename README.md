@@ -28,7 +28,7 @@ A simple web-based habit tracking application built with HTML, CSS, and JavaScri
 
 ## Live Demo
 
-The application is hosted on GitHub Pages: [Daily Habits Tracker](https://YOURUSERNAME.github.io/daily-habits-tracker/)
+The application is hosted on GitHub Pages: [Daily Habits Tracker](https://timcoil.github.io/habits-tracker/)
 
 ## Installation
 
